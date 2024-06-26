@@ -12,6 +12,4 @@ else
 fi
 
 
-
-this communication class
 
