@@ -7,3 +7,4 @@ echo $PWD
 
 name=Girija
 echo “My name is $name”
+echo "I have made changes"
