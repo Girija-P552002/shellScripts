@@ -5,5 +5,5 @@ print(my_scores)
 sum=0
 count=0
 for i in my_scores:
-             sum=sum+1
+            sum=sum+1
 print(sum)
