@@ -4,5 +4,5 @@ lll=[10,30,100]
 for i in l:
      if i in ll:
          if i in lll:
-            print(i)
+             print(i)
          
