@@ -1,0 +1,6 @@
+{
+    "name": "Girija P",
+    "age": 22,
+    "city": "Bangalore"
+}
+
