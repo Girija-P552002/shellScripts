@@ -1,0 +1,8 @@
+2024-08-06 10:00:00 INFO Application started
+2024-08-06 10:05:23 WARNING Low disk space
+2024-08-06 10:15:42 INFO User logged in
+2024-08-06 10:20:15 ERROR Failed to connect to database
+2024-08-06 10:25:31 INFO Data processing completed
+2024-08-06 10:30:12 WARNING High memory usage
+2024-08-06 10:35:05 ERROR Null pointer exception in module X
+
